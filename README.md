@@ -38,3 +38,5 @@ bản-năng
 bướng
 buông
 ```
+
+> Tham khảo danh sách từ của các ngôn ngữ khác: https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md
