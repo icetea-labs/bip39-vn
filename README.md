@@ -30,9 +30,11 @@ Quy tắc cơ bản:
 ## Ví dụ
 
 ### Vần `b`:
+```
 bàng-bạc
 bằng-lòng
 bác-bỏ
 bản-năng
 bướng
 buông
+```
