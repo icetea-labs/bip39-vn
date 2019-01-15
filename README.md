@@ -2,8 +2,6 @@ Tham khảo danh sách từ (có nhiều trang):  https://vi.wiktionary.org/wiki
 
 **Lưu ý chọn các từ có ý nghĩa trong sáng, tích cực, dễ hiểu**
 
-> **Assignment**
->
 > **pic1**: m,n (nh, ng, ngh),l,h,k (kh)
 >
 > **brick**: a (ă, â), b, c
