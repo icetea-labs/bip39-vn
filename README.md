@@ -1,4 +1,6 @@
-Tham khảo danh sách từ (có nhiều trang): https://vi.wiktionary.org/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:M%E1%BB%8Di_b%C3%A0i?namespace=0
+Tham khảo danh sách từ (có nhiều trang):  https://vi.wiktionary.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:M%E1%BB%A5c_t%E1%BB%AB_ti%E1%BA%BFng_Vi%E1%BB%87t
+
+**Lưu ý chọn các từ có ý nghĩa trong sáng, tích cực, dễ hiểu**
 
 > **Assignment**
 >
@@ -38,6 +40,7 @@ Quy tắc cơ bản:
 - 4 chữ đầu phải khác nhau
 - 4 chữ cái đầu nếu chỉ khác nhau về dấu có thể chấp nhận (ví dụ: uống và uổng)
 - chọn các từ đời thường, dễ hiểu
+- chọn các từ có ý nghĩa trong sáng, tích cực
 - ưu tiên chọn từ đơn
 - nếu là từ ghép, viết dấu - để phân cách (ví dụ: bản-năng). Chú ý "bản-năng" và "bản-thể" được coi là trùng lặp vì trùng 4 kí tự đầu
 - không chọn từ ghép có tới 3 âm tiết (chỉ tối đa là 2)
