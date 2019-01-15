@@ -1,3 +1,22 @@
+
+> **Assignment**
+>
+> **pic1**: m,n (nh, ng, ngh),l,h,k (kh)
+>
+> **brick**: a (ă, â), b, c
+>
+> **pic2**: d, đ, e (ê), g (gh)
+>
+> **Huy**: i, o (ô, ơ), p (ph)
+>
+> **Tín**: q, r
+>
+> **Việt**: s, y
+>
+> **Teddy**: t, th, tr, u, ư
+>
+> **Dương**: v, x
+
 # bip39-vn
 
 Soạn danh sách từ tiếng Việt để làm seed phrase (mnemonic) cho crypto wallet (bip39 standard).
